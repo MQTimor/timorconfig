@@ -1,4 +1,4 @@
 config:
   info: ok1928
 server:
-  port: 3355
+  port: 3399
